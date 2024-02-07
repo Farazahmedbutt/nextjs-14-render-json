@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "description": "A high-performance laptop suitable for gaming and professional work."
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "description": "A flagship smartphone with an excellent camera and long-lasting battery."
+  },
+  {
+    "id": 3,
+    "name": "Headphones",
+    "description": "Noise-cancelling headphones with superior sound quality and comfort."
+  },
+  {
+    "id": 4,
+    "name": "Smart Watch",
+    "description": "A smart watch with fitness tracking and mobile notifications."
+  },
+  {
+    "id": 5,
+    "name": "E-Reader",
+    "description": "A lightweight e-reader with a paper-like display for avid readers."
+  }
+]
